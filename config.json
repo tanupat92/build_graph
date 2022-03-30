@@ -1,0 +1,8 @@
+{
+  "DRUG_DICT": "./data/drug_dict.pkl",
+  "ALL_RESPONSE": "./data/all_success.pkl",
+  "ADVERSE": "./data/adverse_event.pkl",
+  "ILLNESS": "./data/illness.pkl",
+  "IP": "10.0.0.50",
+  "PORT": "8182"
+}
